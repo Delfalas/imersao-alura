@@ -5,4 +5,4 @@
 <h3>A segunda pasta é o mesmo projeto implementado em React, uma introdução minha ao framework. </h3> <br>
 <p> Temos todos os componentes separados para a implementação do site em React</p>
 <br>
-<h4> Projeto realizado durante uma imersão na Alura </h4>P
+<h4> Projeto realizado durante uma imersão na Alura </h4>
